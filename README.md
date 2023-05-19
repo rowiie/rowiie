@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rowiie
-- 👀 I’m interested in learning C and C++ right now
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on making program using C++ or C
+- 👋 Hi, I’m a second year computer science student
+- 👀 I’m interested in learning Flutter.
+- 🌱 I’m currently honing myy skills in web development and creating application using Flutter in Visual Studio Code.
 
 <!---
 rowiie/rowiie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
